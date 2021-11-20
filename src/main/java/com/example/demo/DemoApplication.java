@@ -5,10 +5,10 @@ import org.springframework.boot.autoconfigure.*;
 import org.springframework.web.bind.annotation.*;
 
 //@SpringBootApplication
-//@Controller
+@Controller
 public class DemoApplication {
 
-	//@PostMapping("/")
+	@GetMapping("/")
 	String home() {
 		return "Spring is here!";
 	}
