@@ -12,7 +12,9 @@ public class DemoApplication {
 	String home() {
 		return "Spring is here!";
 	}
-
+	String home2() {
+		return "Spring is here!";
+	}
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 	}
