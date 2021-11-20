@@ -1,0 +1,1094 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- 公共的js，css -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="renderer" content="webkit"/>
+    <!-- 开发标准页面时引用此文件，提供了基本的js及css -->
+    <link rel="stylesheet" href="//static.koocdn.com/framework/css/global.css">
+    <!--[if lt IE 8]>
+    <script src="//static.koocdn.com/lib/json-js/json2.js"></script>
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="//static.koocdn.com/lib/es5-shim/es5-shim.js"></script>
+    <![endif]-->
+    <script src="//static.koocdn.com/project/xdf-analysis-log/1.x/js/page.bundle.js"></script>
+    <script src="//static.koocdn.com/framework/js/global.js"></script>
+    <script type="text/javascript">
+      seajs.config({
+          base: '//images.koolearn.com/shark/',
+          importBase: '//images.koolearn.com/shark/',
+          comboExcludes: function(uri) {
+              return true
+          }
+      });
+    </script>
+    <!-- 公共部分结束 -->
+          <title>新概念英语第三册必背词汇（汇总）_新概念_新东方在线</title>
+        <meta name="keywords" content="新概念英语第三册必背词汇,新概念英语"/>
+    <meta name="description" content=" 新东方在线新概念小编为大家带来新概念英语第三册必背词汇一文，希望对大家的新概念英语学习有所帮助。更多精彩尽请关注新东方在线新概念   "/>
+    <link rel="stylesheet" href="//images.koolearn.com/shark/project/zt/2018/0913xqy/css/style.css" />
+    <script type="text/javascript" src="http://img.koolearn.com/v2/js/cms_login.js" charset="utf-8"></script>
+</head>
+<body>
+<!--试听body-->
+<script type="text/javascript" src="//images.koolearn.com/shark/project/zt/2016/0114kyldy/common/try-listen-global/try-listen-global.bundle.js"></script>
+<script src="http://images.koolearn.com/shark/project/zt/2016/0114kyldy/common/shark-try-listen/shark-try-listen.bundle.js"></script>
+<!--试听end-->
+
+<!--头部-->
+<div class="xqy_head">
+      <div class="nav w1200">
+            <a href="//www.koolearn.com" class="logo"><img src="https://images.koolearn.com/shark/project/logo/guonei-shuoshi-header.png" alt=""></a>
+            <p class="nav_lf">
+                  <a href="http://nce.koolearn.com/">新概念首页</a>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_68049.html">第一册</a>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_68056.html">第二册</a>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_68058.html">第三册</a>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_90100.html">阅读写作</a>
+            </p>
+<div class="fr dl_zc" id="login_b">
+            <!--<span class="sp0"><a href="http://study.koolearn.com/my">进入学习中心</a></span>-->
+            <span class="sp1"><a href="javascript:;" target="_self" rel="nofollow">登录</a></span><span class="sp2"><a href="javascript:;" target="_blank" rel="nofollow">注册有礼</a></span>
+        </div>
+        <div class="fr hide dl_zc" id="login_n" style="display: none;">
+            <span class="sp0"><a href="http://study.koolearn.com/my">进入学习中心</a></span>
+            <span class="sp1_n"><a href="http://study.koolearn.com/my" class="name_n"></a></span>
+            <a href="javascript:userLogout();" target="_self" class="login_out">[退出]</a>
+        </div>
+        <div class="nav_rt" >
+            <form method="get" action="//news.koolearn.com/search/index">
+                <div class="fom w_rt">
+                    <input id="tex_hov" class="tex texon1 nav_text" type="text" name="keyword" style="color:#9B9B9B" value="搜资讯" onfocus="if(value=='搜资讯'){value=''}" onblur="if(value=='') {value='搜资讯'}">
+                    <input class="but1" type="submit" name="" value="">
+                </div>
+            </form>
+        </div>      </div>
+</div>
+
+<div class="nav_tit"><a href="//www.koolearn.com">新东方在线</a> > <a href="//nce.koolearn.com">新概念</a> > <a href="https://nce.koolearn.com/disance/" title="新概念英语第三册">新概念英语第三册</a> > 正文</div>
+<div class="xqy_container w1200">
+
+<!--左侧-->
+<div class="xqy_class">
+    <ul class="xqy_class_list">
+
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=http://www.koolearn.com/ke/xingainian/">
+                <div class="xqy_class_con xqy_class_con1">
+                    <p class="xqy_class_sel">新概念英语选课中心<span class="xqy_class_sel_n">NEW</span></p>
+                </div>
+            </a>
+        </li>
+
+
+      <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/guonei/product/c_34_130526.html">
+                <div class="xqy_class_con xqy_class_con4">
+                    <p class="xqy_class_sel">新概念1册入门</p>
+                    <p class="xqy_class_nub">0元</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_131616.html">
+                <div class="xqy_class_con xqy_class_con7">
+                    <p class="xqy_class_sel">新概念2册语法</p>
+                    <p class="xqy_class_nub">0元</p>
+                </div>
+            </a>
+        </li>
+
+       <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_134359.html">
+                <div class="xqy_class_con xqy_class_con6">
+                    <p class="xqy_class_sel">新概念3册写作</p>
+                    <p class="xqy_class_nub">0元</p>
+                </div>
+            </a>
+        </li>
+
+       <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_135213.html">
+                <div class="xqy_class_con xqy_class_con6">
+                    <p class="xqy_class_sel">英语打卡营</p>
+                    <p class="xqy_class_nub">0元</p>
+                </div>
+            </a>
+        </li>
+
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/guonei/product/c_37_135558.html">
+                <div class="xqy_class_con xqy_class_con4">
+                    <p class="xqy_class_sel">3天口语训练营</p>
+                </div>
+            </a>
+        </li>
+
+
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/guonei/product/c_37_135568.html">
+                <div class="xqy_class_con xqy_class_con5">
+                    <p class="xqy_class_sel">2h挑战单词兵法</p>
+                </div>
+            </a>
+        </li>
+     
+
+
+
+
+
+
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=http://ceshi.koolearn.com/pc/58">
+                <div class="xqy_class_con xqy_class_con3">
+                    <p class="xqy_class_sel">词汇量测试</p>
+                    <p class="xqy_class_nub">16561人测</p>
+                </div>
+            </a>
+        </li>
+  
+
+
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=http://nce.koolearn.com/xuexi/">
+                <div class="xqy_class_con xqy_class_con5">
+                    <p class="xqy_class_sel">学习方法<span class="xqy_class_sel_h">HOT</span></p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=http://bbs.koolearn.com/f-100492-1.html">
+                <div class="xqy_class_con xqy_class_con6">
+                    <p class="xqy_class_sel">资料下载</p>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=http://nce.koolearn.com/20181224/787065.html">
+                <div class="xqy_class_con xqy_class_con7">
+                    <p class="xqy_class_sel">学习手册</p>
+                </div>
+            </a>
+        </li>
+    </ul>
+    <div class="xqy_class_box">
+        <div class="xqy_class_code">
+            <img src="//file.koolearn.com/2020/1112/20201112080932570.png" alt="">
+            <div class="xqy_class_code_rt">
+               <p>扫码领<span>英语资料</span></p>
+                <p>听说读写全覆盖</p>
+                <br>
+                <p>80万+已关注</p>
+            </div>
+        </div>
+    </div>
+    <div class="xqy_class_foot">
+        <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_68057.html" class="xqy_class_foot_btn"><i></i>英语学习VIP卓越班<span style="background-color: #0AD3BC;">直播</span></a>
+        <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=33678602d0714ccb8aafc5a719781bd4&url=https://www.koolearn.com/product/c_34_67987.html" class="xqy_class_foot_btn"><i></i>新概念精讲精练班<span style="background-color: #FF8B00;">精讲</span></a>
+    </div>
+</div>
+
+<!--中间-->
+<div class="xqy_container_box">
+<div class="xqy_core">
+    <div class="xqy_core_main">
+        <!--标题 时间 来源-->
+        <h1 class="xqy_core_tit">新概念英语第三册必背词汇（汇总）</h1>
+        <div class="xqy_core_time">
+            <span>2018-10-15 14:21:00</span><span>来源：网络</span>
+            <div class="xqy_share">
+                    <div class="bdsharebuttonbox">
+                        <a href="javascript:void(0);" class="bds_more" data-cmd="more"></a>
+                        <a href="javascript:void(0);" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a>
+                        <a href="javascript:void(0);" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a>
+                        <a href="javascript:void(0);" class="bds_sqq" data-cmd="sqq" title="分享到QQ好友"></a>
+                        <a href="javascript:void(0);" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a>
+                    </div>
+                    <script>
+                        var pageUrl = window.location.href;
+                        var title = document.title;
+                        window._bd_share_config = {
+                            common : {
+                                bdText : title,
+            //                    bdDesc : '自定义分享摘要',
+                                bdUrl : pageUrl
+            //                    bdPic : '自定义分享图片'
+                            },
+                            share : [{
+                                "bdSize" : 16
+                            }],
+                            slide : [{
+                                bdImg : 0,
+                                bdPos : "right",
+                                bdTop : 100
+                            }],
+                            image : [{
+                                viewType : 'list',
+                                viewPos : 'top',
+                                viewColor : 'black',
+                                viewSize : '16',
+                                viewList : ['weixin','tsina','sqq','qzone']
+                            }],
+                            selectShare : [{
+                                "bdselectMiniList" : ['weixin','tsina','sqq','qzone']
+                            }]
+                        }
+                        with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
+                    </script>
+                </div>
+        </div>
+        <!--新概念半通广告图-->
+<div class="ktit_sw mt12 pos_r">
+      
+
+<script language="javascript" src="//img.koolearn.com/zt/poster_js/1077.js"></script>
+     </div>
+<script language="javascript" src="//img.koolearn.com/zt/poster_js/1188.js"></script>
+        <ul class="xqy_core_main_list">
+          <!--托福内容推荐(正文)-->
+<li><span>【资料库】</span><a href="http://nce.koolearn.com/20170531/785075.html">第一册语法</a><i></i><a href="http://nce.koolearn.com/20160630/783360.html">逐句精讲新概念英语2</a><i></i><a href="http://nce.koolearn.com/20180611/785988.html">第三册经典句子解析</a><i></i><a href="http://nce.koolearn.com/20161207/784580.html"><font color="#FF0000"><strong>新概念英语30天寒假学习计划</strong></font></a></li>
+            <li><span>【课后题及答案解析】</span><a href="http://nce.koolearn.com/20150330/782497.html">新概念英语第一册</a><i></i><a href="http://nce.koolearn.com/20180809/786391.html">新概念英语第二册</a><i></i><a href="http://nce.koolearn.com/20180426/785693.html">新概念英语第三册</a><i></i><a href="http://nce.koolearn.com/20180517/785820.html">新概念英语第四册</a></li>
+            <li><span>【经验分享】</span><a href="http://nce.koolearn.com/20180813/786308.html"><font color="#FF0000"><strong>学习新概念英语如何提升英语水平?</strong></font></a><i></i> <a href="http://nce.koolearn.com/20180517/785818.html">自学四大经典学习方法</a><i></i><a href="http://nce.koolearn.com/20171106/785383.html">新概念学习方法及经验</a></li>
+        </ul>
+        <div class="xqy_core_text">
+            <p>        新东方在线新概念小编为大家带来<a href="http://nce.koolearn.com/disance/" target="_blank" class="link">新概念英语第三册</a>必背词汇一文，希望对大家的<a class="link" href="http://nce.koolearn.com/" target="_blank">新概念英语学习</a>有所帮助。更多精彩尽请关注新东方在线<a href="http://nce.koolearn.com/" target="_blank" class="link">新概念英语</a>学习网(<a href="http://nce.koolearn.com/" _src="http://nce.koolearn.com">http://nce.koolearn.com</a>  )!</p><table width="100%" cellspacing="0" cellpadding="0" border="1" align="center"><tbody><tr><td valign="center" height="35" align="center"><strong>新概念英语第三册必背词汇（汇总）</strong></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180822/786513.html" target="_blank">新概念英语第三册必背词汇（1）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180823/786514.html" target="_blank">新概念英语第三册必背词汇（2）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180824/786515.html" target="_blank">新概念英语第三册必背词汇（3）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180825/786516.html" target="_blank">新概念英语第三册必背词汇（4）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180826/786517.html" target="_blank">新概念英语第三册必背词汇（5）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180827/786518.html" target="_blank">新概念英语第三册必背词汇（6）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180828/786519.html" target="_blank">新概念英语第三册必背词汇（7）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180829/786520.html" target="_blank">新概念英语第三册必背词汇（8）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180830/786521.html" target="_blank">新概念英语第三册必背词汇（9）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180831/786522.html" target="_blank">新概念英语第三册必背词汇（10）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180901/786523.html" target="_blank">新概念英语第三册必背词汇（11）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180902/786524.html" target="_blank">新概念英语第三册必背词汇（12）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180903/786525.html" target="_blank">新概念英语第三册必背词汇（13）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180904/786526.html" target="_blank">新概念英语第三册必背词汇（14）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180905/786527.html" target="_blank">新概念英语第三册必背词汇（15）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180906/786528.html" target="_blank">新概念英语第三册必背词汇（16）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180907/786529.html" target="_blank">新概念英语第三册必背词汇（17）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180908/786530.html" target="_blank">新概念英语第三册必背词汇（18）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180909/786531.html" target="_blank">新概念英语第三册必背词汇（19）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180910/786532.html" target="_blank">新概念英语第三册必背词汇（20）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180911/786533.html" target="_blank">新概念英语第三册必背词汇（21）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180912/786534.html" target="_blank">新概念英语第三册必背词汇（22）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180913/786535.html" target="_blank">新概念英语第三册必背词汇（23）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180914/786536.html" target="_blank">新概念英语第三册必背词汇（24）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180915/786537.html" target="_blank">新概念英语第三册必背词汇（25）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180916/786538.html" target="_blank">新概念英语第三册必背词汇（26）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180917/786539.html" target="_blank">新概念英语第三册必背词汇（27）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180918/786540.html" target="_blank">新概念英语第三册必背词汇（28）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180919/786541.html" target="_blank">新概念英语第三册必背词汇（29）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180920/786542.html" target="_blank">新概念英语第三册必背词汇（30）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180921/786543.html" target="_blank">新概念英语第三册必背词汇（31）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180922/786544.html" target="_blank">新概念英语第三册必背词汇（32）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180923/786545.html" target="_blank">新概念英语第三册必背词汇（33）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180924/786546.html" target="_blank">新概念英语第三册必背词汇（34）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180925/786547.html" target="_blank">新概念英语第三册必背词汇（35）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180926/786548.html" target="_blank">新概念英语第三册必背词汇（36）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180927/786549.html" target="_blank">新概念英语第三册必背词汇（37）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180928/786550.html" target="_blank">新概念英语第三册必背词汇（38）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180929/786551.html" target="_blank">新概念英语第三册必背词汇（39）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20180930/786552.html" target="_blank">新概念英语第三册必背词汇（40）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181001/786553.html" target="_blank">新概念英语第三册必背词汇（41）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181002/786554.html" target="_blank">新概念英语第三册必背词汇（42）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181003/786555.html" target="_blank">新概念英语第三册必背词汇（43）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181004/786556.html" target="_blank">新概念英语第三册必背词汇（44）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181005/786557.html" target="_blank">新概念英语第三册必背词汇（45）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181006/786558.html" target="_blank">新概念英语第三册必背词汇（46）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181007/786559.html" target="_blank">新概念英语第三册必背词汇（47）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181008/786560.html" target="_blank">新概念英语第三册必背词汇（48）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181009/786561.html" target="_blank">新概念英语第三册必背词汇（49）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181010/786562.html" target="_blank">新概念英语第三册必背词汇（50）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181011/786563.html" target="_blank">新概念英语第三册必背词汇（51）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181012/786564.html" target="_blank">新概念英语第三册必背词汇（52）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181013/786565.html" target="_blank">新概念英语第三册必背词汇（53）</a></td></tr><tr><td valign="center" height="35" align="center"><a href="http://nce.koolearn.com/20181014/786566.html" target="_blank">新概念英语第三册必背词汇（54）</a></td></tr></tbody></table><p>      以上就是新东方在线<a href="http://nce.koolearn.com/" target="_blank" class="link">新概念英语学习</a>网为你带来的新概念英语第三册必背词汇，更多精彩内容。敬请关注新东方在线新概念英语学习网<span style="WHITE-SPACE: normal">（<a href="http://nce.koolearn.com/" _src="http://nce.koolearn.com">http://nce.koolearn.com</a></span>）。</p>            <style type="text/css" _ue_org_tagname="style">
+.ys {
+	width: 610px;
+	margin: 5px;
+	padding: 5px;
+	border-top-color: #CCC;
+	border-right-color: #CCC;
+	border-bottom-color: #CCC;
+	border-left-color: #CCC;
+	font-size: 14px;
+}
+.cl {
+	color: #F00;
+}
+</style><p style="text-align:center"><span style="color:#990000;font-size:20px;"><strong>新东方在线英语水平测试</strong></span></p><p style="text-align:center"><span style="color:#0000ff"><a href="https://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&amp;kid=d6b3e889c56e4e53a250242083310fcc&amp;url=https://nce.koolearn.com/zhuanti/englishtest_pc/?channel=zxz" target="_blank"><img src="https://file.koolearn.com/20210520/16214771575184.png" alt="新概念1册-3天英语入门基础" /></a></span><span style="color:#0000ff"></span></p><!--<p style="text-align:center"><span style="color:#990000;font-size:20px;"><strong>新概念3册：3天重建阅读写作体系-0元领课</strong></span></p><p style="text-align:center;"><a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&amp;kid=6fce574ac8ad483295dc5edfce783e85&amp;url=https://www.koolearn.com/product/c_34_117222.html" target="_blank"><img src="https://file.koolearn.com/20210329/16170041894542.jpg" width="580" height="273" /></a></p>-->        </div>
+            <!-- 去掉展开收起功能 -->
+        <style>.xqy_container .xqy_core .xqy_core_main .xqy_core_text{height:auto !important;}</style>
+        <!-- <div class="xqy_core_text_btn">
+            <a href="javascript:;" class="xqy_core_kan xqy_core_kan1">查看全文<img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/jian.png" alt=""></a>
+            <a href="javascript:;" class="xqy_core_kan xqy_core_kan2">收起全文<img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/jian_t.png" alt=""></a>
+        </div> -->
+        <!-- 根据栏目调取的片段 -->
+        <!-- <div id="api" caitid=580></div> -->
+        <!--关键字-->
+        <div class="core_main_keyword">
+            <p class="main_keyword_tit"><span>本文关键字: </span>
+                                                               <a title="新概念英语第三册必背词汇" href="http://news.koolearn.com/search/index?keyword=新概念英语第三册必背词汇" rel="nofollow">新概念英语第三册必背词汇</a>
+                                                                    <a title="新概念英语" href="http://news.koolearn.com/search/index?keyword=新概念英语" rel="nofollow">新概念英语</a>
+                                                     </p>
+        </div>
+        <div class="pgbar pg" id="page">
+                    </div>
+        <!--版权s-->
+                    <p class="main_keyword_txt"><script language="javascript" src="//img.koolearn.com/zt/poster_js/code1339.js"></script></p>
+                <!--版权e-->
+	        
+
+    </div>
+
+    <!--免费试听--> <!--今日特价-->
+    <!--公众号展示 -->
+    <div class="gzh_show">
+        <img src="//images.koolearn.com/fe_upload/2020/8/2020-8-19-1597829235067.png" alt="">
+        <h3>扫码关注新东方新概念课堂</h3>
+        <h4>回复【英文读物】免费领世界英文名著大全</h4>
+    </div><div class="xqy_aud xqy_for xqy_core_box">
+	<div class="xqy_core_top">
+		<p class="xqy_core_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/data.png?df7c03" alt="">资料下载</p>
+	</div>
+	<ul class="xqy_aud_box xqy_for_box">
+						<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">《新概念第一册》全套学习笔记</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：32166</span>
+						<span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【学习笔记】免费获取资料</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">《新概念英语语法大全》</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：22657</span>
+						<span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【新概念语法】免费获取资料</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">《生活大爆炸》全12季资源汇总</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：66752</span>
+						<span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【生活大爆炸】免费获取资源
+</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">《走遍美国》音频教材大全</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：29442</span>
+						<span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【走遍美国】免费获取资料
+</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">初中重点短语和句型大全</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：27119</span>
+						<span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【短语句型】免费获取资料
+</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">零基础学习英语礼包</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：74230</span>
+						<span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【零基础】免费获取资料
+</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">初学英语语法指导礼包</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：32884</span>
+						<span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【英语语法】免费获取资料</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">世界英文名著大全资源</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：37224</span>
+						<span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【英文读物】免费领取</p></span>
+					</span>
+		</li>
+				<li>
+					<span class="downloadPopup jp-popup">
+						<p class="listTit">13部曲BBC听力精品资源</p>
+						<span class="listTime">发布时间：2020-08-20</span><br>
+						<span class="listDescription">下载次数：64772</span>
+						<span class="listContent"><p>关注新东方新概念课堂</p><p>回复【BBC】免费获取资料</p></span>
+					</span>
+		</li>
+					</ul>
+	<a href="https://nce.koolearn.com/zlxz/" class="read_btn xqy_for_btn" target="_blank">更多资料<img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/read_01.png?3fc024" alt=""></a>
+</div>
+
+<div class="popup">
+	<div class="info-news">
+		<h3 class="info-tit"></h3>
+		<span class="info-time"></span>
+		<span class="info-description"></span>
+		<span class="clear"></span>
+	</div>
+	<p class="title2 downTit">关注四六级小助手服务号回复【典藏笔记】获取</p>
+	<p class="title2">关注新东方四级服务号，<br>获取学习资料</p>
+	<div class="pop_ewm"><img id="xdf_QR_code" src="//images.koolearn.com/fe_upload/2020/8/2020-8-19-1597829235067.png" alt=""></div>
+	<ul class="readme">
+		<li>1.打开手机微信【扫一扫】，识别上方二维码；</li>
+		<li>2.点击【关注公众号】，回复上方关键字领取学习资料。</li>
+	</ul>
+	<span class="gb"></span>
+</div>
+<div class="download_mask"></div>
+    
+    <!--推荐阅读-->
+    <div class="xqy_read xqy_core_box">
+        <div class="xqy_core_top">
+            <p class="xqy_core_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/star.png?0f5df7" alt="">推荐阅读</p>
+            <a href="https://nce.koolearn.com/disance/" class="xqy_core_btn">更多>></a>
+        </div>
+        <ul class="xqy_read_box">
+                                          <li>
+                    <a href="https://nce.koolearn.com/20210519/792275.html" title="新概念英语第二册课文:Lesson 34 quick work" class="read_tit">新概念英语第二册课文:Lesson 34 quick work</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第二册课文:Lesson 34 quick work相关内容，里面不光有标准英音，还有美音音   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-19 16:19:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第二册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第二册课文" rel="nofollow">新概念英语第二册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210518/792274.html" title="新概念英语第二册课文:Lesson 33 Out of the darkness" class="read_tit">新概念英语第二册课文:Lesson 33 Out of the darkness</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第二册课文:Lesson 33 Out of the darkness相关内容，里面不光有标准英音   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-18 16:17:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第二册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第二册课文" rel="nofollow">新概念英语第二册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210517/792273.html" title="新概念英语第二册课文:Lesson 32 shopping made easy" class="read_tit">新概念英语第二册课文:Lesson 32 shopping made easy</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第二册课文:Lesson 32 shopping made easy相关内容，里面不光有标准英音，   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-17 16:17:54</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第二册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第二册课文" rel="nofollow">新概念英语第二册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210519/792267.html" title="新概念英语第一册课文:Lesson 69 The car race" class="read_tit">新概念英语第一册课文:Lesson 69 The car race</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第一册课文:Lesson 69 The car race相关内容，里面不光有标准英音，还有美   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-19 16:06:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第一册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第一册课文" rel="nofollow">新概念英语第一册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210518/792266.html" title="新概念英语第一册课文:Lesson 67 The weekend" class="read_tit">新概念英语第一册课文:Lesson 67 The weekend</a>
+                    <p class="read_txt">﻿　　以下是新东方在线新概念英语频道给大家整理了新概念英语第一册课文:Lesson 67 The weekend相关内容，里面不光有标准英音，还有美   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-18 16:04:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第一册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第一册课文" rel="nofollow">新概念英语第一册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210507/792265.html" title="look up是什么意思？		" class="read_tit">look up是什么意思？		</a>
+                    <p class="read_txt">　　专业问答：look up是什么意思？　　回答：同学你好，是查找向上看的意思 </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-07 18:12:07</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语" href="http://news.koolearn.com/search/index?keyword=新概念英语" rel="nofollow">新概念英语</a>
+                                                                                                                            <a title="专业问答" href="http://news.koolearn.com/search/index?keyword=专业问答" rel="nofollow">专业问答</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210507/792264.html" title="porter能不能指搬砖的搬运工？" class="read_tit">porter能不能指搬砖的搬运工？</a>
+                    <p class="read_txt">　　专业问答：porter能不能指搬砖的搬运工？　　回答：同学你好，不能，是搬运行李的 </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-07 18:10:59</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语" href="http://news.koolearn.com/search/index?keyword=新概念英语" rel="nofollow">新概念英语</a>
+                                                                                                                            <a title="专业问答" href="http://news.koolearn.com/search/index?keyword=专业问答" rel="nofollow">专业问答</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210516/792263.html" title="新概念英语第二册课文:Lesson 31 Success story" class="read_tit">新概念英语第二册课文:Lesson 31 Success story</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第二册课文:Lesson 31 Success story相关内容，里面不光有标准英音，还有美   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-16 17:11:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第二册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第二册课文" rel="nofollow">新概念英语第二册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210515/792262.html" title="新概念英语第二册课文:Lesson 30 Football or polo" class="read_tit">新概念英语第二册课文:Lesson 30 Football or polo</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第二册课文:Lesson 30 Football or polo相关内容，里面不光有标准英音，还   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-15 17:09:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第二册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第二册课文" rel="nofollow">新概念英语第二册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                              <li>
+                    <a href="https://nce.koolearn.com/20210514/792261.html" title="新概念英语第二册课文:Lesson 29 Taxi" class="read_tit">新概念英语第二册课文:Lesson 29 Taxi</a>
+                    <p class="read_txt">　　以下是新东方在线新概念英语频道给大家整理了新概念英语第二册课文:Lesson 29 Taxi相关内容，里面不光有标准英音，还有美音音频，大   </p>
+                    <p class="read_foot">
+                        <span>来源 : 网络</span>
+                        <span>2021-05-14 17:07:00</span>
+                        <span>关键字 :<i>
+                        							                                                                                            <a title="新概念英语第二册课文" href="http://news.koolearn.com/search/index?keyword=新概念英语第二册课文" rel="nofollow">新概念英语第二册课文</a>
+                                                                                    </i></span>
+                    </p>
+                </li>
+                                  </ul>
+        <a href="https://nce.koolearn.com/disance/" class="read_btn">更多内容<img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/read_01.png?3fc024" alt=""></a>
+    </div>
+    <!--搜索关键词-->
+    <div class="xqy_column">
+        <ul class="xqy_col_tab">
+      <li class="dqfl jp-dqfl">推荐关注</li>
+      <li>栏目导航</li>
+      <li><a href="/zt/" target="_blank">热门搜索</a></li>
+</ul>
+<div class="xqy_col_box">
+            <div class="xqy_col_con">
+                <ul class="xqy_col_list">
+                    <li><a href="http://nce.koolearn.com/diyice/">新概念1</a></li>
+                    <li><a href="http://nce.koolearn.com/dierce/">新概念2</a></li>
+                    <li><a href="http://nce.koolearn.com/disance/">新概念3</a></li>
+                </ul>
+            </div>
+
+            <div class="xqy_col_con">
+                <ul class="xqy_col_list">
+                    <li><a href="http://nce.koolearn.com/20160623/783350.html">新概念英语学习方法</a></li>
+                    <li><a href="http://nce.koolearn.com/20160722/783721.html">英语音标表</a></li>
+                    <li><a href="http://nce.koolearn.com/20170717/785128.html">新概念英语全集</a></li>
+                    <li><a href="http://nce.koolearn.com/20150915/782978.html">英语学习计划表</a></li>
+                </ul>
+            </div>
+            <div class="xqy_col_con">
+                <ul class="xqy_col_list">
+                                                                          <li><a href="//nce.koolearn.com/zt/nceyydycfy/">新概念英语第一册翻译</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydycdyjcda/">新概念英语第一册单元检测答案</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydyccsda/">新概念英语第一册测试答案</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydeckhda/">新概念英语第二册课后答案</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydsicda/">新概念英语第四册答案</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydecda/">新概念英语第二册答案</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/ncedecxwsmsp/">新概念第二册学完什么水平</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydsicdc/">新概念英语第四册单词</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydycdc/">新概念英语第一册单词</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydycmp3/">新概念英语第一册mp3</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydsckw/">新概念英语第三册课文</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyydyc/">新概念英语第一册</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/ncebs/">新概念英语背诵</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/ncemfxz/">新概念英语免费下载</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nectingli/">新概念英语听力</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/necercesp/">新概念英语第二册视频</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyyspxz/">新概念英语视频下载</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/necsance/">新概念英语mp3</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nececkw/">新概念英语第二册课文</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/nceyy3/">新概念英语3</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7463/">新东方新概念第一册</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7461/">新概念第二册课后答案</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7459/">职场新概念英语</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7448/">新概念课程</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7447/">新东方新概念培训班</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7445/">新概念英语4</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7440/">新概念英语第一册培训</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7439/">新概念第一册录音</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7424/">新东方新概念英语第二册视频</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7416/">新概念英语全视频</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7415/">新概念英语全集</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-7407/">新版新概念英语视频</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1066/">新东方新概念英语在线课堂</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1063/">新东方新概念英语在线公开课</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1051/">新东方新概念英语通关课程</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1049/">新东方新概念英语提分课程</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1046/">新东方新概念英语视频课程</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1042/">新东方新概念英语培训网校</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1037/">新东方新概念英语课堂</a></li>
+                                                      <li><a href="//nce.koolearn.com/zt/pinpai-1-1021/">新东方新概念英语补习课堂</a></li>
+                                                              </ul>
+            </div>
+        </div>
+    </div>
+    <!--版权及免责声明-->
+    <div class="xqy_copyright xqy_core_box">
+        <!-- <div class="xqy_core_top">
+            <p class="xqy_core_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/cop.png" alt="">版权及免责声明</p>
+            <a href="javascript:;" class="xqy_core_btn">更多>></a>
+        </div> -->
+        <div class="xqy_copy_box">
+            <script language="javascript" src="//img.koolearn.com/zt/poster_js/code1340.js"></script>
+        </div>
+    </div>
+</div>
+
+<!--右侧-->
+  <div class="xqy_item">
+
+    <!--公开课-->
+<style>
+    .xqy_search,.xqy_relevance,.xqy_item .xqy_read,.ktit_sw,.xqy_core_main_list,.fixed_right{
+        display:none;
+    }
+</style>
+<!-- 关注公众号 -->
+<div class="xqy_right_top_gzh">
+    <h3>必看《新概念英语语法大全》</h3>
+    <h4>扫码回复【新概念语法】免费领取</h4>
+    <img src="//images.koolearn.com/fe_upload/2020/8/2020-8-19-1597829235067.png" alt="">
+</div>
+
+
+<!--中间广告-->
+<a target="_blank" href="https://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=6a6df2e7c12c46e585234f0b3da01a2e&url=https://www.koolearn.com/guonei/product/c_34_130526.html"><img style="margin-bottom:5px;" src="https://file.koolearn.com/20210413/16182924439162.jpg" alt="新概念1"></a>
+
+<a target="_blank" href="https://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=6a6df2e7c12c46e585234f0b3da01a2e&url=https://www.koolearn.com/product/c_34_131616.html"><img style="margin-bottom:5px;" src="https://file.koolearn.com/20210331/16171601808140.jpg" alt="新概念2"></a>
+
+
+<a target="_blank" href="https://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=6a6df2e7c12c46e585234f0b3da01a2e&url=https://www.koolearn.com/product/c_34_134359.html"><img style="margin-bottom:5px;" src="https://file.koolearn.com/20210331/16171601808097.jpg" alt="新概念3"></a>
+
+<div class="xqy_open xqy_item_box">
+    <div class="xqy_item_top">
+        <p class="xqy_item_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/open.png?d5b8d8" alt="">公开课</p>
+        <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://nce.koolearn.com/zhuanti/free/" class="xqy_item_btn">更多>></a>
+    </div>
+  
+
+
+
+   <ul class="xqy_open_list">
+        <li>
+            <div class="xqy_open_time"><span>8月课程</span></div>
+            <p class="xqy_open_tit"><a title="3天口语先锋训练营"  href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://www.koolearn.com/product/c_37_134887.html">3天口语先锋训练营</a></p>
+            <p class="xqy_open_txt">
+                <span>新东方名师帮你搞定英语语法基础</span>
+            </p>
+            <div class="xqy_open_foot">
+                <div class="open_foot_box">
+                    <p class="open_foot_price">价格 : <span>￥0元</span></p>
+                    <p class="open_foot_people">限报人数：10000人</p>
+                </div>
+                <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://www.koolearn.com/product/c_37_134887.html" class="open_foot_btn">免费领取</a>
+            </div>
+        </li>
+    </ul>
+
+  <ul class="xqy_open_list">
+        <li>
+            <div class="xqy_open_time"><span>8月课程</span></div>
+            <p class="xqy_open_tit"><a title="2小时挑战单词兵法"  href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://www.koolearn.com/guonei/product/c_37_135568.html">2小时挑战单词兵法</a></p>
+            <p class="xqy_open_txt">
+                <span>新东方名师帮你搞定英语语法基础</span>
+            </p>
+            <div class="xqy_open_foot">
+                <div class="open_foot_box">
+                    <p class="open_foot_price">价格 : <span>￥0元</span></p>
+                    <p class="open_foot_people">限报人数：10000人</p>
+                </div>
+                <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=hhttps://www.koolearn.com/guonei/product/c_37_135568.html" class="open_foot_btn">免费领取</a>
+            </div>
+        </li>
+    </ul>
+
+   <ul class="xqy_open_list">
+        <li>
+            <div class="xqy_open_time"><span>8月课程</span></div>
+            <p class="xqy_open_tit"><a title="【英语·打卡营】10天零基础逆袭指南"  href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://www.koolearn.com/product/c_34_135213.html#intro">【英语·打卡营】10天零基础逆袭指南</a></p>
+            <p class="xqy_open_txt">
+                <span>匹配新同桌，一起奋斗、一起学习，坚持打卡，赢奖品</span>
+            </p>
+            <div class="xqy_open_foot">
+                <div class="open_foot_box">
+                    <p class="open_foot_price">价格 : <span>￥0元</span></p>
+                    <p class="open_foot_people">限报人数：10000人</p>
+                </div>
+                <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://www.koolearn.com/product/c_34_135213.html#intro" class="open_foot_btn">免费领取</a>
+            </div>
+        </li>
+    </ul>
+
+    <a href="http://un.koolearn.com/alliance/clickword?userid=ff80808138fed9e801390002fcd60001&kid=a96db186c2f3415c80974db656b01b77&url=https://nce.koolearn.com/zhuanti/free/" class="xqy_item_add">更多公开课>></a>
+</div>
+
+<!--资料下载-->
+<div class="xqy_data xqy_item_box xqy_for">
+    <div class="xqy_item_top">
+        <p class="xqy_item_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/data.png?df7c03" alt="">资料下载</p>
+        <a target="_blank" href="https://m.koolearn.com/nce/list-4909/" class="xqy_item_btn">更多>></a>
+    </div>
+    <ul class="xqy_data_list xqy_for_box">
+                        <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="《新概念第一册》全套学习笔记">《新概念第一册》全套学习笔记</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 32166</span>
+                <span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【学习笔记】免费获取资料</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="《新概念英语语法大全》">《新概念英语语法大全》</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 22657</span>
+                <span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【新概念语法】免费获取资料</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="《生活大爆炸》全12季资源汇总">《生活大爆炸》全12季资源汇总</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 66752</span>
+                <span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【生活大爆炸】免费获取资源
+</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="《走遍美国》音频教材大全">《走遍美国》音频教材大全</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 29442</span>
+                <span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【走遍美国】免费获取资料
+</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="初中重点短语和句型大全">初中重点短语和句型大全</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 27119</span>
+                <span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【短语句型】免费获取资料
+</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="零基础学习英语礼包">零基础学习英语礼包</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 74230</span>
+                <span class="listContent"><p style="white-space: normal;">
+    关注新东方新概念课堂
+</p>
+<p style="white-space: normal;">
+    回复【零基础】免费获取资料
+</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="初学英语语法指导礼包">初学英语语法指导礼包</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 32884</span>
+                <span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【英语语法】免费获取资料</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="世界英文名著大全资源">世界英文名著大全资源</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 37224</span>
+                <span class="listContent"><p style="white-space: normal;">关注新东方新概念课堂</p><p style="white-space: normal;">回复【英文读物】免费领取</p></span>
+            </div>
+        </li>
+                <li class="jp-popup">
+            <div class="xqy_data_tit"><a class="download listTit" href="javascript:;" title="13部曲BBC听力精品资源">13部曲BBC听力精品资源</a></div>
+            <div class="xqy_data_box">
+                <span class="listTime">发布时间 : 2020-08-20</span>
+                <i></i>
+                <span class="listDescription">下载次数 : 64772</span>
+                <span class="listContent"><p>关注新东方新概念课堂</p><p>回复【BBC】免费获取资料</p></span>
+            </div>
+        </li>
+                    </ul>
+    <a href="https://nce.koolearn.com/zlxz/" class="read_btn xqy_for_btn" target="_blank">更多资料<img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/read_01.png?3fc024" alt=""></a>
+</div>
+
+
+<!--右悬浮-->
+<div class="fixed_right">
+    <a href="#" class="fixed_right_btn"></a>
+    <a href="mailto:guanyajun@koolearn-inc.com" class="fixed_right_txt">我要<br>反馈</a>
+    <a href="//nce.koolearn.com" class="fixed_right_txt">返回<br>首页</a>
+</div>
+
+    <!--阅读排行榜-->
+    <div class="xqy_read xqy_item_box">
+        <div class="xqy_item_top">
+            <p class="xqy_item_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/read.png?20e0f7" alt="">阅读排行榜</p>
+            <!-- <a href="javascript:;" class="xqy_item_btn">更多>></a> -->
+        </div>
+        <div class="xqy_read_box">
+            <ul class="xqy_read_nub">
+                <li><span style="background-color:#0AD3BC;color: #fff;">1</span></li>
+                <li><span style="background-color:#0AD3BC;color: #fff;">2</span></li>
+                <li><span style="background-color:#0AD3BC;color: #fff;">3</span></li>
+                <li><span>4</span></li>
+                <li><span>5</span></li>
+                <li><span>6</span></li>
+                <li><span>7</span></li>
+                <li><span>8</span></li>
+                <li><span>9</span></li>
+                <li><span>10</span></li>
+            </ul>
+            <ul class="xqy_read_list">
+                                                      <li><a href="https://nce.koolearn.com/20210105/789101.html" title="作为表示时间的介词 during和in 都是在什么时间范围内？">作为表示时间的介词 during和in 都是...</a></li>
+                                      <li><a href="https://nce.koolearn.com/20201218/789049.html" title="新概念英语第二册课文精讲（汇总）">新概念英语第二册课文精讲（汇总）</a></li>
+                                      <li><a href="https://nce.koolearn.com/20191119/787948.html" title="新概念英语第四册分类词汇集合">新概念英语第四册分类词汇集合</a></li>
+                                      <li><a href="https://nce.koolearn.com/20191108/787908.html" title="新概念英语第二册词汇学习（汇总）">新概念英语第二册词汇学习（汇总）</a></li>
+                                      <li><a href="http://nce.koolearn.com/20190611/787854.html" title="新概念英语第四册：“再见”多种说法">新概念英语第四册：“再见”多种说法</a></li>
+                                      <li><a href="https://nce.koolearn.com/20190610/787843.html" title="新概念英语第三册课文注释（汇总）">新概念英语第三册课文注释（汇总）</a></li>
+                                      <li><a href="http://nce.koolearn.com/20190610/787839.html" title="新概念英语第四册课文注释（汇总）">新概念英语第四册课文注释（汇总）</a></li>
+                                      <li><a href="http://nce.koolearn.com/20190610/787836.html" title="新概念英语第一册Lesson59-60课文注释">新概念英语第一册Lesson59-60课文注释</a></li>
+                                      <li><a href="http://nce.koolearn.com/20190606/787831.html" title="新概念英语第一册语言点和语法点（Lesson77-78）">新概念英语第一册语言点和语法点（Lesso...</a></li>
+                                      <li><a href="http://nce.koolearn.com/20190604/787822.html" title="新概念英语第四册Lesson48课文注释">新概念英语第四册Lesson48课文注释</a></li>
+                                              </ul>
+        </div>
+    </div>
+    <!--相关内容-->
+    <div class="xqy_relevance xqy_item_box">
+        <div class="xqy_item_top">
+            <p class="xqy_item_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/rel.png?19029e" alt="">相关内容</p>
+            <!-- <a href="javascript:;" class="xqy_item_btn">更多>></a> -->
+        </div>
+        <div class="xqy_relevance_box">
+            <ul class="xqy_relevance_nub">
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+                <li><span></span></li>
+            </ul>
+            <ul class="xqy_relevance_list">
+                                                      <li><a href="https://nce.koolearn.com/20210519/791302.html" title="新概念英语第三册词汇Lesson10~12">新概念英语第三册词汇Lesson10~12</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210519/791301.html" title="新概念英语第三册词汇Lesson7~9">新概念英语第三册词汇Lesson7~9</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210519/791300.html" title="新概念英语第三册词汇Lesson4~6">新概念英语第三册词汇Lesson4~6</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210519/791299.html" title="新概念英语第三册词汇Lesson1~3">新概念英语第三册词汇Lesson1~3</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210519/791213.html" title="新概念英语第三册必背词汇（8）">新概念英语第三册必背词汇（8）</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210518/791212.html" title="新概念英语第三册必背词汇（7）">新概念英语第三册必背词汇（7）</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210518/791211.html" title="新概念英语第三册必背词汇（6）">新概念英语第三册必背词汇（6）</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210518/791210.html" title="新概念英语第三册必背词汇（5）">新概念英语第三册必背词汇（5）</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210518/791209.html" title="新概念英语第三册必背词汇（4）">新概念英语第三册必背词汇（4）</a></li>
+                                      <li><a href="https://nce.koolearn.com/20210518/791208.html" title="新概念英语第三册必背词汇（3）">新概念英语第三册必背词汇（3）</a></li>
+                                              </ul>
+        </div>
+    </div>
+    <!--网友热搜-->
+    <!--托福网友热搜-->
+<div class="xqy_search xqy_item_box">
+        <div class="xqy_item_top">
+            <p class="xqy_item_logo"><img src="//images.koolearn.com/shark/project/zt/2018/0913xqy/i/search.png?45b0b9" alt="">网友热搜</p>
+        </div>
+        <ul class="xqy_search_list">
+            <li><a title=">如何学习新概念英语1-4册" href="http://nce.koolearn.com/20161208/784586.html" style="color: #C5BB61;">如何学习新概念1-4册</a><a title="新概念英语学习方法" href="http://nce.koolearn.com/xuexi/" style="color: #DB8282;">新概念学习方法</a></li>
+            <li><a title="新概念英语第一册" href="http://nce.koolearn.com/diyice/" style="color: #77CDC3;">新概念英语第一册</a><a title="新概念英语第二册" href="http://nce.koolearn.com/dierce/" style="color: #CCA772;">新概念英语第二册</a></li>
+            <li><a title="新概念英语第三册" href="http://nce.koolearn.com/disance/" style="color: #81D1AC;">新概念英语第三册</a><a title="新概念英语第四册" href="http://nce.koolearn.com/disice/" style="color: #BA85D0;">新概念英语第四册</a></li>
+            <li><a title="新概念公开课" href="http://v.koolearn.com/c/2282-0.html" style="color: #D07AAD;">新概念英语公开课</a><a title="新概念英语学习计划"  href="http://nce.koolearn.com/20160722/783722.html" style="color: #8294CA;">新概念英语学习计划</a></li>
+            <li><a title="自学新概念英语" href="http://nce.koolearn.com/20161226/784672.html" style="color: #B8C675;">自学新概念英语</a><a title="新概念英语学习误区"  href="http://nce.koolearn.com/20181011/786671.html" style="color: #CC83B1;">新概念英语学习误区</a></li>
+            <li><a title="自学新概念英语的经验之谈" href="http://nce.koolearn.com/20161004/784270.html" style="color: #D39191;">自学新概念经验之谈</a><a title="零基础学新概念"  href="http://nce.koolearn.com/20171207/785564.html" style="color: #8E93BC;">零基础学新概念</a></li>
+            <li><a title="用新概念提升英语听力" href="http://nce.koolearn.com/20180703/786103.html" style="color: #C18282;">用新概念提升英语听力</a><a title="新概念英语资料下载"  href="http://bbs.koolearn.com/f-100492-1.html" style="color: #656565;">新概念资料下载</a></li>
+        </ul>
+    </div>
+  </div>
+</div>
+</div>
+
+<script src="//images.koolearn.com/shark/project/zt/2018/0913xqy/js/page.js"></script>
+<script>
+    seajs.use('project/zt/2018/0913xqy/js/page', function (exports) {
+        exports.init();
+    });
+</script>
+<!-- 页尾开始 -->
+<style>
+/* 页尾样式 */
+#ft a:hover {
+    color: #ff8330!important
+}
+
+#ft .footer_copyright {
+    width: 100%;
+	padding:20px 0 50px;
+	font-size:12px;
+}
+
+#ft .footer_copyright .footer_copyright-con {
+    width: 1190px;
+    margin: 0 auto;
+    position: relative
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-con-ul {
+    line-height: 50px;
+    text-align:center;
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-con-ul li {
+    display: inline-block;
+    padding-right: 20px
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-con-ul li a {
+    color: #545e64;
+    text-decoration: none
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-con-ul li a:hover {
+    text-decoration: underline
+}
+
+#ft .footer_copyright .footer_copyright-con p {
+    line-height: 24px;
+    color: #828282;
+    text-align:center;
+}
+
+#ft .footer_copyright .footer_copyright-con p a {
+    color: #828282;
+    text-decoration: none
+}
+
+#ft .footer_copyright .footer_copyright-con p a:hover {
+    text-decoration: underline
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-logo {
+    text-align:center;
+    margin-top:10px;
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-logo .footer_copyright__img {
+    display: inline-block;
+    padding: 0 15px
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-logo .footer_copyright__img.footer_copyright__credit {
+    margin-right: 50px
+}
+
+#ft .footer_copyright .footer_copyright-con .footer_copyright-logo .footer_copyright-logo__line {
+    display: inline-block;
+    width: 0;
+    height: 35px;
+    border-right: 1px solid #e1e6ee
+}
+#ft .k12hezuo{
+    display:none;
+}
+@media screen and (max-width: 1200px) {
+    #ft .footer_copyright .footer_copyright-con {
+        width: 1000px;
+    }
+    #ft .footer_copyright .footer_copyright-con .footer_copyright-logo {
+        position: absolute;
+        bottom: 20px;
+        right: 15px;
+    }
+}
+</style>
+<!-- 关于我们  版权 -->
+<div id="ft">
+	<div class="footer_copyright">
+        <div class="footer_copyright-con">
+            <ul class="footer_copyright-con-ul">
+                <li><a rel="nofollow" href="//www.koolearn.com/about/" target="_blank">关于我们</a></li>
+                <li><a rel="nofollow" href="//www.koolearn.com/about/shangwu/" target="_blank">商务合作</a></li>
+                <!-- <li class="k12hezuo"><a rel="nofollow" href="//k12zs.koolearn.com/" target="_blank">招商合作</a></li> -->
+                <li><a rel="nofollow" href="//www.koolearn.com/about/guanggao/" target="_blank">广告服务</a></li>
+                <li><a rel="nofollow" href="//sc.koolearn.com/" target="_blank">线下体验店</a></li>
+                <li><a rel="nofollow" href="//help.koolearn.com/" target="_blank">客服中心</a></li>
+                <li><a rel="nofollow" href="//help.koolearn.com/#lxkf" target="_blank">在线留言</a></li>
+                <li><a rel="nofollow" href="//www.koolearn.com/about/hezuo/" target="_blank">合作伙伴</a></li>
+                <li><a rel="nofollow" href="//www.koolearn.com/about/lianxi/" target="_blank">联系我们</a></li>
+                <li><a rel="nofollow" href="http://zhaopin.koolearn.com/" target="_blank">人员招聘</a></li>
+                <li><a href="//www.koolearn.com/sitemap/" target="_blank">网站地图</a></li>
+                <li><a href="//www.koolearn.com/zt/" target="_blank">热点关注</a></li>
+                <li><a href="//union.koolearn.com/">网盟合作</a></li>
+                <li><a href="//news.koolearn.com/yinyue/">音乐</a></li>
+            </ul>
+            <p><a target="_blank" rel="nofollow" href="http://www.miibeian.gov.cn/">京ICP证050421号 <a target="_blank" rel="nofollow" href="http://www.miibeian.gov.cn/">京ICP备05067669号</a> 京公网安备11010802017616号 <a target="_blank" href="//news.koolearn.com/20140623/1017723.html">网络视听许可证0110531号</a> <a target="_blank" href="//news.koolearn.com/20151014/1065752.html" target="_blank">京网文(2016)1303-163号</a></p>
+            <p>Copyright © 2011-<span class="footerYearsShow">2018</span> 新东方教育科技集团有限公司, All Rights Reserved</p>
+            <div class="footer_copyright-logo">
+                <a target="_blank" style="margin-right:0;padding:0" class="footer_copyright__img footer_copyright__credit" rel="nofollow" href="http://www.itrust.org.cn/home/index/itrust_certifi/wm/MY2018090401.html"><img alt="客户满意度" src="//images.koolearn.com/fe_upload/2019/10/2019-10-10-1570697575966.png"></a>
+                <a target="_blank" class="footer_copyright__img footer_copyright__credit" rel="nofollow" href="http://www.itrust.org.cn/Home/Index/itrust_certifi/wm/177256341X.html"><img alt="网信认证" src="//images.koolearn.com/fe_upload/2018/9/2018-9-7-1536317051892.png"></a>
+            </div>
+        </div>
+	</div>
+</div>
+<script src="https://img.koolearn.com/v2/js/foot.js"></script>
+<script type="text/javascript">
+seajs.use("//www.koolearn.com/qqLoginYhq/yhq.jsp#");
+</script>
+<!-- 点击统计-->
+<script language="JavaScript" src="//cmsapp.koolearn.com/count.php?id=786567&modelid=33"></script>
+
+<style>
+  .fix-btm-wrapper {
+      height: 109px;
+  }
+</style>
+<script>
+  try {
+    if (location.host.indexOf('neibu') > -1) {
+        document.domain = 'neibu.koolearn.com';
+    } else {
+        // 兼容本地demo
+        document.domain = 'koolearn.com';
+    }
+  } catch (e) { }
+</script>
+<script src="//static.koocdn.com/project/header/1.x/common/common-mix/common-mix.bundle.js"></script>
+<script src="//static.koocdn.com/project/header/1.x/common/dialog-nopass-login/dialog-nopass-login.bundle.js"></script>
+<script src="//daxueui-osstest.koocdn.com/static/project/zt/2021/0401fixbtn-com/js/fixbtm.0988487.js"></script>
+
+<script>
+    window._fixedBtm({
+
+        fixedImg: 'https://daxueui-oss.koocdn.com/images/fe_upload/2021/5/2021-5-13-1620906771764.png',
+
+        templateId: 94,
+
+        templateNeibuId: 39,
+
+        weixinNumber: '999999',
+
+        erCode: 'https://daxueui-oss.koocdn.com/images/fe_upload/2021/5/2021-5-13-1620906765113.png',
+
+    });
+</script><script type="text/javascript">
+$(function(){
+$(".kb2 a").click(function(){
+_gaq.push(['_trackEvent', '频道详情页', '新概念课表', $(this).text() || $(this).attr("class")]);
+});
+$(".kb1 a").click(function(){
+_gaq.push(['_trackEvent', '频道详情页右侧课表', '新概念', $(this).text() || $(this).attr("class")]);
+});
+});
+</script>
+<script id="analytics" type="text/javascript" src="//img.koolearn.com/v2/js/an.js" txt="nce"></script>
+<!-- 尾部结尾 -->
+</body>
+</html>
