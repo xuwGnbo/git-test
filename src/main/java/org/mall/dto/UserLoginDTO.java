@@ -19,6 +19,7 @@ import javax.validation.constraints.Pattern;
 @AllArgsConstructor
 public class UserLoginDTO {
    @NotNull(message = "手机号码不能为空")
+   @Pattern(regexp = "1[0-9]{10}", message = "手机号必须是以1开始的11位数字")
    private String phoneNo;
 
    @NotNull(message = "密码不能为空")

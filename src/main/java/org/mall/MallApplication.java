@@ -1,5 +1,8 @@
 package org.mall;
 
+import org.mall.controller.UserController;
+//import org.mall.exception.APIException;
+//import org.mall.exception.GlobalExceptionHandler;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -17,8 +20,8 @@ import org.springframework.web.servlet.ModelAndView;
  * @see org.mall.utils.ResponseControllerAdvice
  *
  * 统一异常处理
- * @see org.mall.utils.APIException
- * @see org.mall.utils.GlobalExceptionHandler
+ * @see org.mall.exception.APIException
+ * @see org.mall.exception.GlobalExceptionHandler
  *
  * 参考博客:
  * Springboot统一返回接口+统一异常处理+后端参数校验 = https://cloud.tencent.com/developer/article/1699840
@@ -40,7 +43,7 @@ import org.springframework.web.servlet.ModelAndView;
  *
  *
  * TODO: 通用用户事务:
- * @see org.mall.controller.UserController
+ * @see UserController
  * @see org.mall.service.UserService
  * @see org.mall.mapper.UserMapper
  * @see org.mall.entity.User

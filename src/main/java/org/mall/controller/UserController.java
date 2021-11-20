@@ -60,7 +60,7 @@ public class UserController {
 
    /// 注:
    // (1) 上面的 doRegister 使用 @Valid 注解校验信息, 如果校验失败, 则会抛出 BindException,
-   // 异常会在 org.mall.utils.GlobalExceptionHandler 中进行统一处理, 可以减少代码冗余.
+   // 异常会在 org.mall.exception.GlobalExceptionHandler 中进行统一处理, 可以减少代码冗余.
    //
    // (2) 下面的 doLogin 是另一种处理校验失败的方式
    // 要求在 @Valid 注解的参数后面添加 BindingResult 参数, 校验结果将注入 BindingResult 中
@@ -73,7 +73,7 @@ public class UserController {
     * @param request 用于获取session, 检验是否已经登录
     * @return 登录处理结果
     */
-   @PostMapping("/login/{name}")
+   @PostMapping("/login")
    @ResponseBody
    public ResultVO<Object> doLogin(@Valid UserLoginDTO userLoginDTO, BindingResult result, HttpServletRequest request) {
       // 不允许重复登录

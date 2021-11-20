@@ -28,6 +28,7 @@ public class UserRegisterDTO {
    private String password;
 
    @NotNull(message = "手机号码不能空")
+   @Pattern(regexp = "1[0-9]{11}", message = "手机号必须是以1开始的11位数字")
    private String phoneNo;
 
    @NotNull(message = "姓名不能为空")

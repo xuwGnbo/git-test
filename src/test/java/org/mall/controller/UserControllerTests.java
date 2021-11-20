@@ -1,115 +1,124 @@
 package org.mall.controller;
 
 import com.jayway.jsonpath.JsonPath;
-import org.junit.Assert;
+import com.jayway.jsonpath.ReadContext;
+import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.mall.entity.User;
+import org.mall.dto.UserLoginDTO;
+import org.mall.dto.UserOnlineDTO;
+import org.mall.dto.UserRegisterDTO;
+import org.mall.utils.ResultCode;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.autoconfigure.json.JsonTest;
-import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.boot.test.web.client.TestRestTemplate;
-import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
-import org.springframework.http.HttpStatus;
-import org.springframework.http.ResponseEntity;
+import org.springframework.http.*;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.util.LinkedMultiValueMap;
 import org.springframework.util.MultiValueMap;
 
+import java.util.List;
+
 import static org.assertj.core.api.Assertions.assertThat;
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
 
 @RunWith(SpringRunner.class)
-// 2 RANDOM_PORT 会启动 Tomcat 模拟生产环境，接收Http请求
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-// 3 引入Spring上下文，不启动Tomcat, 由 MockMVC 发送请求
-// @AutoConfigureMockMvc 启动自动配置 MockMvc
-// mockmvc可执行 http client 的功能
-// print 打印 mock http 详细信息
-// console 没有打印 Tomcat日志信息，Tomcat 不启动
-//
-// @SpringBootTest    // full Spring application context is started
-// @AutoConfigureMockMvc
-//
-// 4 只引入Web 层的Spring上下文，不启动Tomcat, 由 MockMVC 发送请求
-// @WebMvcTest(xxxController.class)
-// ... { @Autowired xxxController, 不能注入 xxxService (不属于web层)
-// 如果xxxController依赖Service, 则用@MockBean // mock 伪造一个xxxService bean
+@Slf4j
 public class UserControllerTests {
-   // 2 作为 Http Client
    @Autowired
    TestRestTemplate restTemplate;
 
-   // 1
-   @Autowired
-   UserController userController;
-
-   // 1
-   public void testControllerExists() {
-      Assert.assertNotNull(userController);
-   }
-
-   @Test
-   public void testGetLoginPage() {
-      //ResponseEntity<String> entity = restTemplate.getForEntity("/user/login", String.class);
-      //assertThat(entity.getStatusCode()).isEqualTo(HttpStatus.OK);
-      //assertThat(entity.getBody()).isNotBlank();
-      assertThat(restTemplate.getForObject("/user/login", String.class)).isNotEmpty();
-   }
-
-   @Test
-   public void testGetRegisterPage() {
-      assertThat(restTemplate.getForObject("/user/register", String.class)).isNotEmpty();
-   }
-
    @Test
    public void testDoLogin1() {
-      // User类需要使用 @Builder 注解
-      // User user = User.builder().nickname("tester001").phoneNo("123456789012").password("1230").build();
-
-      HttpHeaders headers = new HttpHeaders();
-      headers.add("Content-Type", "application/x-www-form-urlencoded");
-
-      MultiValueMap<String,Object> postParameters = new LinkedMultiValueMap<>();
-      postParameters.add("nickname", "tester001");
-      postParameters.add("phoneNo", "123456789012");
-      postParameters.add("password", "1230");
-
-      HttpEntity<MultiValueMap<String, Object>> httpEntity = new HttpEntity<>(postParameters, headers);
-
-      ResponseEntity<String> entity = restTemplate.postForEntity("/user/register", httpEntity, String.class);
-
-      System.out.println(entity.getStatusCode());
-      System.out.println(entity.getHeaders());
-      System.out.println(entity.getBody());
-      assertThat(entity.getBody()).isNotEmpty();
-//      assertThat(entity.getStatusCode()).isEqualTo(HttpStatus.PERMANENT_REDIRECT);
+      // 用户登录测试用例1
+      // 期望: 登录成功
+      UserOnlineDTO userOnlineDTO = sendUserLoginPost("/user/login",
+              formLogin(UserLoginDTO.builder().phoneNo("15817368796").password("123456").build()),
+              ResultCode.SUCCESS, UserOnlineDTO.class);
+      // 进一步校验数据正确性: 用户昵称是否正确
+      assertThat(userOnlineDTO.getNickname()).isEqualTo("admin-001");
+      // TODO: 能否检查SESSION是否设置
    }
 
-//   @Test
-   public void testLogin() {
-      ResponseEntity<String> entity;
-
-      // 页面
-      entity = restTemplate.getForEntity("/users/login", String.class);
-      assertThat(entity.getStatusCode()).isEqualTo(HttpStatus.OK);
-
-      // 登录
-      HttpHeaders headers = new HttpHeaders();
-      headers.add("Content-Type", "application/x-www-form-urlencoded");
-      MultiValueMap<String,Object> postParameters = new LinkedMultiValueMap<>();
-      postParameters.add("phoneNo", "15817368796");
-      postParameters.add("password", "123456");
-      entity = restTemplate.postForEntity("/users/login", new HttpEntity<>(postParameters, headers), String.class);
-      assertThat(entity.getStatusCode()).isEqualTo(HttpStatus.OK);
-      assertThat(entity.getBody()).isNotEmpty();
-//      jsonPath("")
+   @Test
+   public void testDoLogin2() {
+      // 用户登录测试用例2
+      // 期望: 登录失败, 手机号和密码校验错误
+      List errorMsgs = sendUserLoginPost("/user/login",
+              formLogin(UserLoginDTO.builder().phoneNo("000").password(null).build()),
+              ResultCode.VALIDATE_FAILED, List.class);
+      // 简单判断错误数量是否正确: 应当产生2个错误
+      assertThat(errorMsgs.size()).isEqualTo(2);
    }
 
-//   @Test
-   public void testRegister() {
+   ////////////////////////////////////////////////////////////////
 
+   /**
+    * 通过DTO对象构造表单信息(用户登录)
+    * @param userLoginDTO 用户登录信息的数据传输对象
+    * @return 登录表单信息
+    */
+   private MultiValueMap<String, Object> formLogin(UserLoginDTO userLoginDTO) {
+      MultiValueMap<String, Object> postParameters = new LinkedMultiValueMap<>();
+      postParameters.add("phoneNo", userLoginDTO.getPhoneNo());
+      postParameters.add("password", userLoginDTO.getPassword());
+      return postParameters;
+   }
+
+   /**
+    * 通过DTO对象构造表单信息(用户注册)
+    * @param userRegisterDTO 户登录信息的数据传输对象
+    * @return 注册表单信息
+    */
+   private MultiValueMap<String, Object> formRegister(UserRegisterDTO userRegisterDTO) {
+      MultiValueMap<String, Object> postParameters = new LinkedMultiValueMap<>();
+      postParameters.add("nickname", userRegisterDTO.getNickname());
+      postParameters.add("userName", userRegisterDTO.getUserName());
+      postParameters.add("schoolCardID", userRegisterDTO.getSchoolCardID());
+      postParameters.add("phoneNo", userRegisterDTO.getPhoneNo());
+      postParameters.add("password", userRegisterDTO.getPassword());
+      postParameters.add("wechatID", userRegisterDTO.getWechatID());
+      postParameters.add("email", userRegisterDTO.getEmail());
+      return postParameters;
+   }
+
+   /**
+    * HTTP POST 发送用户请求, 并接收响应数据, 同时判断响应数据是否符合要求
+    * (包括响应码是否正确, data数据类型是否正确; 其他数据细节可以通过返回的数据进一步分别校验)
+    * 请求格式: application/x-www-form-urlencoded
+    * 返回数据格式: application/json
+    *
+    * @param postParameters 表单信息
+    * @param expectedResultCode 期望的响应码
+    * @param expectedDataType 期望的响应数据类型(如果出现错误(如参数错误), 则应当为List.class, 因为可能存在多个错误)
+    * @param <T> 响应数据类型
+    * @return 非空的data数据, 在函数内已对数据判空
+    */
+   private <T> T sendUserLoginPost(String url, MultiValueMap<String, Object> postParameters,
+                                   ResultCode expectedResultCode, Class<T> expectedDataType) {
+      // 设置HTTP请求内容的格式: x-www-form-urlencoded
+      HttpHeaders headers = new HttpHeaders();
+      headers.setContentType(MediaType.APPLICATION_FORM_URLENCODED);
+      // headers.add("Content-Type", MediaType.APPLICATION_FORM_URLENCODED_VALUE);
+
+      // 发送POST请求, 并接收返回的JSON字符串
+      ResponseEntity<String> entity = this.restTemplate.postForEntity(url,
+              new HttpEntity<>(postParameters, headers), String.class);
+
+      // 能够响应成功, 说明URL正确并且服务端状态良好
+      // 注: Controller成功返回的HttpStatus总是200 (不包括服务端启动失败、异常未处理、手动修改Http响应状态等情况)
+      assertThat(entity.getStatusCode()).isEqualTo(HttpStatus.OK);
+      // 提取并解析JSON数据（要求不为空）
+      String jsonResult = entity.getBody();
+      log.info(jsonResult); // for DEBUG
+      assertThat(jsonResult).isNotEmpty();
+      ReadContext context = JsonPath.parse(jsonResult);
+      // 响应码code要符合期望
+      assertThat(context.read("$.code", Integer.class)).isEqualTo(expectedResultCode.getCode());
+      // 数据data类型要符合期望
+      T result = context.read("$.data", expectedDataType);
+      assertThat(result).isNotNull();
+      // 返回数据data, 以便于进一步判断结果是否符合要求
+      return result;
    }
 }

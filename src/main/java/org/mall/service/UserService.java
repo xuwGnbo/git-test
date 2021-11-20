@@ -27,7 +27,8 @@ public class UserService {
    public ResultVO<Object> register(UserRegisterDTO userRegisterDTO) {
       // 转换数据
       User user = DTOConverters.convert2User(userRegisterDTO);
-
+      // 需要先加密
+      user.setPassword(PasswordEncrypt.encrypt(user.getPassword()));
       // 尝试录入注册信息
       int res = userMapper.addUser(user);
       // 录入失败

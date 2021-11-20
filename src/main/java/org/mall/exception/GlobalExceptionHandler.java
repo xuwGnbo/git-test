@@ -1,6 +1,8 @@
-package org.mall.utils;
+package org.mall.exception;
 
 import lombok.extern.slf4j.Slf4j;
+import org.mall.utils.ResultCode;
+import org.mall.utils.ResultVO;
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.BindException;
 import org.springframework.validation.ObjectError;
@@ -47,7 +49,7 @@ public class GlobalExceptionHandler {
    public ResultVO<Object> BindExceptionHandler(BindException e) {
       log.error("参数校验失败");
       List<String> list = new ArrayList<>();
-      if (!e.hasErrors()){
+      if (e.hasErrors()){
          for(ObjectError error:e.getBindingResult().getAllErrors()){
             list.add(error.getDefaultMessage());
          }

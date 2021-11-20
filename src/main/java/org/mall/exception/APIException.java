@@ -1,6 +1,8 @@
-package org.mall.utils;
+package org.mall.exception;
 
 import lombok.Getter;
+import org.mall.utils.ResultCode;
+import org.mall.utils.ResultVO;
 
 /**
  * 自定义异常(运行时异常), 方便中断业务处理并返回错误信息
