@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Register here</title>
+  <link type="text/css" rel="stylesheet" href="register.css">
+</head>
+
+<body>
+  <form action="register.jsp" method="POST">
+    <div id="registerInfo">
+      <h3>请在此输入您的信息并注册</h3>
+      <p><input type="text" name="name" placeholder="姓名" required><br></p>
+      <p><input type="tel" name="phone" placeholder="电话" required><br></p>
+      <p><input type="text" name="weixinnumber" placeholder="微信号" required><br></p>
+      <p><input type="text" name="schoolcard" placeholder="校园卡号" required><br></p>
+      <p>
+        <input type="checkbox" value="userAgreement" required>
+        同意<a href="#">《校园咸鱼用户协议》</a>
+      </p>
+      <input type="submit" value="注册">
+    </div>
+  </form>
+</body>
+
+</html>
